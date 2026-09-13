@@ -1,0 +1,14 @@
+{
+  "name": "lucasfilm-deal-governance",
+  "version": "1.0.0",
+  "description": "Lucasfilm Master Licensing & Joyner Lucas Talent Contract Lifecycle Engine",
+  "main": "lucasfilm_engine.js",
+  "scripts": {
+    "test": "node test_runner.js",
+    "test:agent": "node test_imperial_agent.js",
+    "start": "node lucasfilm_engine.js"
+  },
+  "keywords": ["lucasfilm", "licensing", "smart-contract", "revenue-waterfall", "joyner-lucas", "canon-governance"],
+  "author": "Lucasfilm Deal Governance Engine",
+  "license": "Proprietary"
+}
